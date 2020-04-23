@@ -23,3 +23,7 @@
   * order_id, customer_id, order_total, order_source, date_created
 * orders_items
   * order_id, product_id, item_quantity, item_price, date_created
+* attributes
+  * attribute_id, attribute_name, attribute_parent_id
+* products_attributes
+  * product_id, attribute_id
